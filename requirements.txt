@@ -1,0 +1,11 @@
+# VoceChat Webhook 转发服务依赖包
+
+# Web 框架
+bottle==0.12.25
+
+# HTTP 请求库
+requests==2.31.0
+
+# 可选：更好的 WSGI 服务器（生产环境推荐）
+# gunicorn==21.2.0
+# waitress==2.1.2
